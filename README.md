@@ -1,2 +1,2 @@
 # first
-This a test of building a reposity.
+This a test of building a repository.
